@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.36e32974.css",
+    "main.js": "/static/js/main.02dfa3ba.js",
+    "static/media/hero.png": "/static/media/hero.917066d5c0865da6c209.png",
+    "static/media/equideiStack.png": "/static/media/equideiStack.bf38e7e3ada87af47aa1.png",
+    "static/media/contact.png": "/static/media/contact.7386d62a5757e437996a.png",
+    "static/media/terms-and-conditions.pdf": "/static/media/terms-and-conditions.9507cfda02c7476a5a94.pdf",
+    "static/media/privacy-policy.pdf": "/static/media/privacy-policy.6455a95fb5fe687cf055.pdf",
+    "static/media/main3.png": "/static/media/main3.4c3374221d893449af6c.png",
+    "static/media/fi3d.png": "/static/media/fi3d.9af50ce1abe1395e75a9.png",
+    "static/media/mrPuneet.png": "/static/media/mrPuneet.d7f0e68a21762685fa7c.png",
+    "static/media/mrAnimesh.png": "/static/media/mrAnimesh.378033a94d1e3ce36f24.png",
+    "static/media/msme3d.png": "/static/media/msme3d.1d13cba545861ae8e371.png",
+    "static/media/amitSir.png": "/static/media/amitSir.2c082fa4fbcc5e78ccc3.png",
+    "static/media/ravindraSir.png": "/static/media/ravindraSir.1bfb67fb42cf1f1cbfe1.png",
+    "static/media/rishav.png": "/static/media/rishav.1b3ee42d78a839f45359.png",
+    "static/media/raghav.png": "/static/media/raghav.99f604a49200f1405e23.png",
+    "static/media/nikunjSir.png": "/static/media/nikunjSir.5058b17295fcaf02a5ef.png",
+    "static/media/logoLight.webp": "/static/media/logoLight.5ee9fabdfcf145f5a170.webp",
+    "index.html": "/index.html",
+    "main.36e32974.css.map": "/static/css/main.36e32974.css.map",
+    "main.02dfa3ba.js.map": "/static/js/main.02dfa3ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36e32974.css",
+    "static/js/main.02dfa3ba.js"
+  ]
+}
